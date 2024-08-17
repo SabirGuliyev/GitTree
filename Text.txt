@@ -1,3 +1,5 @@
 Gencler necesiz
 
 bashqa developer yazdigi kod
+
+bashqa brahcda yazilmish kod
